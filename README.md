@@ -35,7 +35,7 @@ L'application s'ouvre sur http://localhost:8501
 ## 🚀 Déploiement Streamlit Cloud
 
 1. Pousser le projet sur GitHub
-2. Se connecter à [share.streamlit.io](https://share.streamlit.io)
+2. Se connecter à [share.streamlit.io](https://healthinsure-yerp3brrojfdxdbjq9ycnu.streamlit.app/)
 3. Sélectionner le repo et définir `src/app.py` comme fichier principal
 4. Déployer !
 
